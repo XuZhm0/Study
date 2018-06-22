@@ -1,0 +1,87 @@
+﻿
+@{
+    ViewBag.Title = "Ajax";
+}
+
+
+<script type="text/javascript">
+    var httpRequest;
+
+    function Ref() {
+        httpRequest = new XMLHttpRequest();
+        httpRequest.onreadystatechange = onread;
+    }
+
+    function onread() {
+        alert(httpRequest.readyState);
+        if (httpRequest.readyState == 4) {
+            alert(httpRequest.responseText);
+        }
+    }
+
+
+    function OpenGet() {
+        httpRequest.open("Get", "Get", true);
+    }
+
+    function OpenPost() {
+        httpRequest.open("Post", "Post", true);
+    }
+
+
+    function SendGet() {
+        httpRequest.send();
+    }
+
+    function SendPost() {
+        httpRequest.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;charset=UTF-8");
+
+        httpRequest.send("Id=1&Name=徐昭明"); 
+    }
+
+
+    function OpenAbort() {
+        httpRequest.open("Get", "Abort", true);
+        httpRequest.send();
+    }
+
+
+    function StopAbort() {
+        httpRequest.abort();
+    }
+
+
+    function ajax(a) {
+        var ajax = new XMLHttpRequest();
+        ajax.onreadystatechange = function () {
+            if (ajax.readyState == 4 && ajax.status == 200) {
+                a.success(JSON.stringify(ajax.responseText))
+            }
+        }
+        ajax.open(a.method, a.url, true)
+        ajax.send(a.data)
+    }
+    function Test() {
+        ajax({
+            method: 'get',
+            url: 'Get',
+            success: function (res) {
+                console.log(res)
+            }
+        })  
+    }
+
+   
+
+</script>
+
+<a class="btn btn-default" onclick="Ref()" >刷新</a>
+<a class="btn btn-default" onclick="OpenGet()" >OpenGet</a>
+<a class="btn btn-default" onclick="OpenPost()" >OpenPost</a>
+<a class="btn btn-default" onclick="SendGet()" >SendGet</a>
+<a class="btn btn-default" onclick="SendPost()" >SendPost</a>
+<a class="btn btn-default" onclick="OpenAbort()" >OpenAbort</a>
+<a class="btn btn-default" onclick="StopAbort()" >StopAbort</a>
+
+<input type="text" value="aaa" id="input1" class="input2" name="input3" />
+

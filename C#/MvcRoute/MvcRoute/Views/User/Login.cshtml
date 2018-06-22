@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+
+    string url = Request["oldUrl"];
+    if (string.IsNullOrEmpty(url)) {
+        url = "/Home/Index";
+    }
+}
+<script type="text/javascript">
+    function login() { 
+        $.ajax({
+            type:"post",
+            url: "login2",
+            data: { username: $("#username").val(), pwd: $("#pwd").val() },
+            success: function (data) {
+                alert(data.msg);
+                if (data.status == 1) {
+                    location.href = "@url";
+                } 
+            }
+        });
+    }
+
+</script>
+
+<div class="form-group">
+    username：<input type="text" id="username" class="form-control" />
+    pwd：<input type="password" id="pwd" class="form-control" />
+    <input type="button" class="btn btn-default" onclick="login()" value="登录" />
+</div>

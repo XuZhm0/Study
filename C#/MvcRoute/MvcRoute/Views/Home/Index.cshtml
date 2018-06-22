@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    Type[] types = ViewBag.types;
+}
+<script type="text/javascript">
+    function clearSession() {
+       $.ajax({ 
+           url: "Home/ClearSession", 
+            success: function (data) {
+                alert(data.msg); 
+            }
+        });
+    }
+</script>
+<a href="javascript:clearSession()" class="btn btn-success">清理session</a>
+
+@foreach (var item in types) {
+    <label class="label label-default">@item</label>
+}

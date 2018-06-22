@@ -1,0 +1,196 @@
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\ApplicationInsights.config
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\MvcRoute.dll.config
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\MvcRoute.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\MvcRoute.pdb
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\csc.exe
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\csc.exe.config
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\csc.rsp
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\csi.exe
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\csi.exe.config
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\csi.rsp
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.AppContext.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Collections.Immutable.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Console.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.IO.Compression.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.IO.FileSystem.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.IO.Pipes.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Security.AccessControl.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Security.Claims.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Threading.Thread.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.ValueTuple.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Xml.XPath.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\vbc.exe
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\vbc.exe.config
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\vbc.rsp
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\VBCSCompiler.exe
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\roslyn\VBCSCompiler.exe.config
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Antlr3.Runtime.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Microsoft.AI.Web.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Microsoft.AI.WindowsServer.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Microsoft.ApplicationInsights.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Microsoft.Web.Infrastructure.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Newtonsoft.Json.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\System.Web.Helpers.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\System.Web.Mvc.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\System.Web.Optimization.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\System.Web.Razor.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\System.Web.WebPages.Deployment.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\System.Web.WebPages.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\System.Web.WebPages.Razor.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\WebGrease.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\System.Web.Helpers.xml
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\System.Web.Mvc.xml
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\System.Web.Optimization.xml
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\System.Web.Razor.xml
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\System.Web.WebPages.xml
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\System.Web.WebPages.Deployment.xml
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\System.Web.WebPages.Razor.xml
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Antlr3.Runtime.pdb
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Newtonsoft.Json.xml
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Microsoft.ApplicationInsights.xml
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Microsoft.AI.WindowsServer.xml
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\Microsoft.AI.Web.xml
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\zh-Hans\System.Web.Helpers.resources.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\zh-Hans\System.Web.Mvc.resources.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\zh-Hans\System.Web.Optimization.resources.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\zh-Hans\System.Web.Razor.resources.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\zh-Hans\System.Web.WebPages.resources.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\obj\Debug\MvcRoute.csprojResolveAssemblyReference.cache
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\obj\Debug\MvcRoute.csproj.CoreCompileInputs.cache
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\obj\Debug\MvcRoute.csproj.CopyComplete
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\obj\Debug\MvcRoute.dll
+c:\users\xzm\documents\visual studio 2017\Projects\MvcRoute\MvcRoute\obj\Debug\MvcRoute.pdb
+H:\Study\C#\MvcRoute\MvcRoute\bin\ApplicationInsights.config
+H:\Study\C#\MvcRoute\MvcRoute\bin\MvcRoute.dll.config
+H:\Study\C#\MvcRoute\MvcRoute\bin\MvcRoute.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\MvcRoute.pdb
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\csc.exe
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\csc.exe.config
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\csc.rsp
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\csi.exe
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\csi.exe.config
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\csi.rsp
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.AppContext.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Collections.Immutable.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Console.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Diagnostics.Process.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.IO.Compression.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.IO.FileSystem.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.IO.Pipes.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Reflection.Metadata.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Security.AccessControl.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Security.Claims.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Security.Principal.Windows.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Threading.Thread.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.ValueTuple.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Xml.XPath.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\vbc.exe
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\vbc.exe.config
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\vbc.rsp
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\VBCSCompiler.exe
+H:\Study\C#\MvcRoute\MvcRoute\bin\roslyn\VBCSCompiler.exe.config
+H:\Study\C#\MvcRoute\MvcRoute\bin\Antlr3.Runtime.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\Microsoft.AI.DependencyCollector.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\Microsoft.AI.Web.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\Microsoft.AI.WindowsServer.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\Microsoft.ApplicationInsights.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\Microsoft.Web.Infrastructure.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\Newtonsoft.Json.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\System.Web.Helpers.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\System.Web.Mvc.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\System.Web.Optimization.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\System.Web.Razor.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\System.Web.WebPages.Deployment.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\System.Web.WebPages.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\System.Web.WebPages.Razor.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\WebGrease.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Study\C#\MvcRoute\MvcRoute\bin\System.Web.Helpers.xml
+H:\Study\C#\MvcRoute\MvcRoute\bin\System.Web.Mvc.xml
+H:\Study\C#\MvcRoute\MvcRoute\bin\System.Web.Optimization.xml
+H:\Study\C#\MvcRoute\MvcRoute\bin\System.Web.Razor.xml
+H:\Study\C#\MvcRoute\MvcRoute\bin\System.Web.WebPages.xml
+H:\Study\C#\MvcRoute\MvcRoute\bin\System.Web.WebPages.Deployment.xml
+H:\Study\C#\MvcRoute\MvcRoute\bin\System.Web.WebPages.Razor.xml
+H:\Study\C#\MvcRoute\MvcRoute\bin\Antlr3.Runtime.pdb
+H:\Study\C#\MvcRoute\MvcRoute\bin\Newtonsoft.Json.xml
+H:\Study\C#\MvcRoute\MvcRoute\bin\Microsoft.ApplicationInsights.xml
+H:\Study\C#\MvcRoute\MvcRoute\bin\Microsoft.AI.DependencyCollector.xml
+H:\Study\C#\MvcRoute\MvcRoute\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Study\C#\MvcRoute\MvcRoute\bin\Microsoft.AI.WindowsServer.xml
+H:\Study\C#\MvcRoute\MvcRoute\bin\Microsoft.AI.Web.xml
+H:\Study\C#\MvcRoute\MvcRoute\bin\zh-Hans\System.Web.Helpers.resources.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\zh-Hans\System.Web.Mvc.resources.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\zh-Hans\System.Web.Optimization.resources.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\zh-Hans\System.Web.Razor.resources.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\zh-Hans\System.Web.WebPages.resources.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+H:\Study\C#\MvcRoute\MvcRoute\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+H:\Study\C#\MvcRoute\MvcRoute\obj\Debug\MvcRoute.csprojResolveAssemblyReference.cache
+H:\Study\C#\MvcRoute\MvcRoute\obj\Debug\MvcRoute.csproj.CoreCompileInputs.cache
+H:\Study\C#\MvcRoute\MvcRoute\obj\Debug\MvcRoute.csproj.CopyComplete
+H:\Study\C#\MvcRoute\MvcRoute\obj\Debug\MvcRoute.dll
+H:\Study\C#\MvcRoute\MvcRoute\obj\Debug\MvcRoute.pdb
