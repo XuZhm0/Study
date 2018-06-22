@@ -1,0 +1,6 @@
+H:\Study\C#\StudyOne\IDbHelper\bin\Debug\IDbHelper.exe
+H:\Study\C#\StudyOne\IDbHelper\bin\Debug\IDbHelper.pdb
+H:\Study\C#\StudyOne\IDbHelper\obj\Debug\IDbHelper.csprojResolveAssemblyReference.cache
+H:\Study\C#\StudyOne\IDbHelper\obj\Debug\IDbHelper.csproj.CoreCompileInputs.cache
+H:\Study\C#\StudyOne\IDbHelper\obj\Debug\IDbHelper.exe
+H:\Study\C#\StudyOne\IDbHelper\obj\Debug\IDbHelper.pdb
